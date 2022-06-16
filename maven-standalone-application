@@ -1,0 +1,3 @@
+#!/bin/bash
+print ("welcome to land marktech")
+print ("you made it")
